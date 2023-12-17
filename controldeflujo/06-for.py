@@ -6,3 +6,6 @@ for numero in range(15):
         break
 else:
     print('no se encontro')
+
+for char in "Hola Mundo":
+    print(char)
